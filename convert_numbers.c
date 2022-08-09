@@ -1,7 +1,7 @@
 /*
  * File: convert_numbers.c
- * Auths: OLUWASEYI ADEKOYA
- *  CHIAGOZIE IKEJI @ ALX-SCHOOL
+ * Auths: OSIYOKU OLUWATIMILEHIN
+ *  BAKARE RIDHWAN @ ALX-SCHOOL
  */
 
 #include "main.h"
