@@ -3,6 +3,7 @@
 #include <stdarg.h>
 #include <stdio.h>
 #include <unistd.h>
+#define BUFF_SIZE 1024
 
 /**
  * struct fmt - Struct op
@@ -25,8 +26,7 @@ int print_percent(va_list types, char buffer[],
 	int flags, int width, int precision, int size);
 
 
-char buffer[],
-	int flags, int width, int precision, int size);
+
 
 
 #endif
