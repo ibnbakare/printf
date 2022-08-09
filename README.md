@@ -1,1 +1,1 @@
-This is a print f project
+This a project done by myself and @timmy15. 
